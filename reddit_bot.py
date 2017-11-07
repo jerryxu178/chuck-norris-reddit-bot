@@ -23,11 +23,11 @@ def run_bot(r):
 			if joke.split(" ")[0] != "Chuck":
 				joke = joke[0].lower() + joke[1:]
 			comment.reply("""You seem to know a lot about Chuck Norris, but 
-				did you know that """ + joke + """\n\n\n\nThis fact brought
+				did you know that """ + joke + +"""\nThis fact brought
 				 to you by [icndb.com](http://www.icndb.com/)
 				""")
 			time.sleep(10)
 
 r = bot_login()
-while true:
+while True:
 	run_bot(r)
