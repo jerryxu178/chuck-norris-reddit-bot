@@ -23,4 +23,4 @@ following commands:
 
 This reddit bot was written with guidance from videos created by https://www.youtube.com/user/busterroni11
 
-The bot's Chuck Norris jokes are pulled from www.icndb.com
+All Chuck Norris jokes for this project are pulled from www.icndb.com
